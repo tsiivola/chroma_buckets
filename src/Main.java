@@ -65,6 +65,7 @@ public class Main extends JFrame {
 					b.checkbox.setSelected(false);
 				}
 				correctLabel.setText("");
+				playCurrentNote();
 			}
 		});
 		
